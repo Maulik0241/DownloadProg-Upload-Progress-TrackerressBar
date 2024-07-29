@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadingProgress</string>
+    <string name="upload_all">Upload All</string>
+    <string name="downloading_progress">Downloading Progress</string>
+</resources>
